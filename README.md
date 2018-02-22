@@ -14,7 +14,7 @@ The function returns NULL if there is nothing left to read. It returns the line 
   
 ## Example usage:
 
-```
+```c
 #include <fcntl.h>
 #include <stdio.h>
 #include <stdlib.h>
